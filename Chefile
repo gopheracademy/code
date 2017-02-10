@@ -1,0 +1,6 @@
+che.server.port=8081
+
+workspace.runtime.docker.image="eclipse/ubuntu_go"
+workspace.projects[0].type="blank"
+workspace.name="GopherAcademy"
+workspace.ram=2048

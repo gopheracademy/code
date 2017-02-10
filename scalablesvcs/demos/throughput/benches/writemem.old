@@ -1,0 +1,3 @@
+BenchmarkWrite-4   	 3000000	       485 ns/op
+PASS
+ok  	github.com/gophertrain/material/scalablesvcs/demos/throughput	1.969s
